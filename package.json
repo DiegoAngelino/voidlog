@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-point",
+  "name": "void-log",
   "private": true,
-  "description": "be water my friend",
-  "version": "0.2.0",
-  "author": "George Brown <teawares@gmail.com>",
+  "description": "A personal blog, the log of the trip",
+  "version": "1.0.0",
+  "author": "Void",
   "bugs": {
-    "url": "https://github.com/teaware/gatsby-starter-point/issues"
+    "url": "https://github.com/DiegoAngelino/voidlog/issues"
   },
   "dependencies": {
     "gatsby": "^2.24.47",
@@ -42,7 +42,7 @@
   "devDependencies": {
     "prettier": "^2.0.5"
   },
-  "homepage": "https://gatsby-starter-point.netlify.app/",
+  "homepage": "https://voidlog.netlify.app/",
   "license": "MIT",
   "scripts": {
     "build": "rm -rf public && rm -rf .cache && gatsby build",

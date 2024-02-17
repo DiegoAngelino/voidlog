@@ -15,16 +15,12 @@ class Layout extends React.Component {
           <div className="social-links">
             <a
               href="/tags"
-              target="_blank"
-              rel="noopener noreferrer"
             >
               tags full list
             </a>{" "}
             &bull;{" "}
             <a
               href="/sul-serio-non-sei-sui-social"
-              target="_blank"
-              rel="noopener noreferrer"
             >
               no social links here
             </a>{" "}

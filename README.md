@@ -1,29 +1,11 @@
-# gatsby-starter-point
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fb006e9c-553c-489d-a67c-ef0485781dba/deploy-status)](https://app.netlify.com/sites/voidlog/deploys)
 
-A humble [Gatsby Starter](https://www.gatsbyjs.com/starters/teaware/gatsby-starter-point/) for personal blog. :shipit:
+# Personal blog
+This is just another personal blog, just to keep track of things I want to share.
+[void-log](https://voidlog.netlify.app/)
 
-With fancy page transitions ✨💫
-
-& Perfect Performance 💯
-
-![Performance](./src/assets/performance.png)
-
-## Basic Guide
-
-Install dependencies
-
-```
-npm install
-```
-
-when it's done
-
-```
-gatsby develop
-```
-
-Happy coding 💅🏻
+Enjoy
 
 ## Contact
-
+Original project on [GitHub](https://github.com/teaware/gatsby-starter-point)
 Contact me on [twitter](https://twitter.com/anikijiang).
